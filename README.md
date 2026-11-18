@@ -1,3 +1,15 @@
+
+国产安卓手机可以留意这个开源工具：TelemetryCleaner（遥测清理）。
+
+专门检测和管理 SystemHelper、RegService 等预装组件，无需 Root，配合 Shizuku 就能使用。
+
+支持小米、OPPO、一加、realme、vivo、华为、荣耀等品牌，可查看组件权限、检测安装状态，并对支持的组件进行卸载、恢复和定期清理。
+
+想了解手机里有哪些预装后台组件的，可以收藏研究！
+
+github.com/Eynnzerr/Telem…
+
+
 # 遥测清理 · TelemetryCleaner
 
 > 运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。
